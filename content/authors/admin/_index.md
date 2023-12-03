@@ -1,50 +1,59 @@
 ---
 # Display name
-title: 吳健雄
+title: 周景春
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhou Jingchun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingchun
+last_name: Zhou
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dalian Maritime University
+    url: https://www.dlmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: None
 
 # Interests to show in About widget
 interests:
+  - Computer Vision
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Underwater Image Enhancement/Restoration
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Visiting Scholar at the Department of Electrical and Electronic Engineering
+      institution: The Hong Kong Polytechnic University
+      year: 2023.06-now
+    - course: Postdoctoral Fellow at the School of Information Science and Technology
+      institution: Dalian Maritime University
+      year: 2022.02-now
+    - course: Ph.D. student at the School of Information Science and Technology
+      institution: Dalian Maritime University
+      year: 2018.09-2021.12
+    # - course: Master student at the School of Computer Information Technology
+    #   institution: Northern Arizona University
+    #   year: 2021.05-2022.05
+    - course: Worked for CRRC
+      institution: Dalian Electric Traction R&D Center Co., Ltd.
+      year: 2016.08-2018.08
+    - course:  Master student at the School of Software Engineering
+      institution: Beijing University of Posts and Telecommunications
+      year: 2014.09-2016.07
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,24 +100,16 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=Ls5Fx4IAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jingchun-Zhou-3
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhoujingchun03
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received an M.S. degree in software engineering from Beijing University of Posts and Telecommunications (BUPT), Beijing, China, in 2016. Subsequently, I earned another M.S. degree in computer information technology from Northern Arizona University (NAU), Flagstaff, AZ, USA, in 2022, and a Ph.D. degree in computer applications from Dalian Maritime University (DMU), Dalian, China, in 2021. At present, I am serving as a postdoctoral researcher at Dalian Maritime University (DMU) and am also a visiting fellow at the Hong Kong Polytechnic University (PolyU), China. I have had the privilege to review for a multitude of journals and conferences including IEEE TIP, TCSVT, TGRS, TIM, SPL, JOE, AI, EAAI, Information Fusion, AMM, CEA, SPIC, Neurocomputing, OE, AAAI, ACCV, and ect.
 {style="text-align: justify;"}
